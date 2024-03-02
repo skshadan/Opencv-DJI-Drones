@@ -1,4 +1,4 @@
-
+![App Screenshot](https://raw.githubusercontent.com/skshadan/Opencv-DJI-Drones/main/images/Slide%2016_9%20-%201.png)
 # OpenCV with DJI Drones
 So, you're trying to tap into your DJI drone's camera feed to use OpenCV, huh? Doesn't matter if it's a DJI Mini 2, DJI Mini 2 SE, or some other model, it can be a real pain, right? I was in the same boat, but after messing around with a bunch of methods, I finally cracked it.
 
