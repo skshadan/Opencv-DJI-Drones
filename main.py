@@ -19,7 +19,7 @@ if cv2.waitkey(1) & 0xFF == ord('q'):
   break
 else:
   print("Failed to grab frame")
-  brek
+  break
 
 # when everything is done, release the capture
 
